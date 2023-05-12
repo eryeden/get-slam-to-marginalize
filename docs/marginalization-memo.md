@@ -25,3 +25,5 @@ H_0 = H_{-1} - \frac{\partial x}{\partial z} \frac{\partial x}{\partial z}^T
 https://github.com/pangfumin/marginalization
 
 ## OKVIS
+>In the case where marginalized nodes comprise landmarks at infinity (or sufficiently close to infinity), or landmarks visible only in one camera from a single pose, the Hessian blocks associated with those landmarks will be (numerically) rank-deficient. We thus employ the pseudo-inverse H+ µµ, hich provides a solution for δχµ given δχλ with a zerocomponent into nullspace direction
+https://www.roboticsproceedings.org/rss09/p37.pdf
