@@ -9,3 +9,19 @@
 ここまでは知っていた内容。
 疑問：
 - Marginalizeした変数、Hessianは、次の最適化ステップではどう活用されるのか？
+
+## Google Bardより
+```math
+H_0 = H_{-1} - \frac{\partial x}{\partial z} \frac{\partial x}{\partial z}^T
+```
+
+- $H_0$ : 今回のHessian
+- $H_{-1}$ 前回のHessian
+
+という天啓を得た。たしかにどっかで見たことがある気がする。OKVISなどFixed lagsmoothingの初期の文献から基本的な処理を調査するのがいいかもしれない。
+
+
+##
+https://github.com/pangfumin/marginalization
+
+## OKVIS
