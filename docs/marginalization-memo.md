@@ -37,3 +37,10 @@ https://www.roboticsproceedings.org/rss09/p37.pdf
 https://dellaert.github.io/files/Williams14ijrr.pdf
 
 👆結構marginalizationが登場している
+
+
+
+##
+https://wang-yimu.com/variable-elimination-smoothing-and-marginalization-explained/
+
+👆このサイト、神。このサイトで勉強することにする。
