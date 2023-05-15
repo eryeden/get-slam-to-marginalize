@@ -27,3 +27,7 @@ https://github.com/pangfumin/marginalization
 ## OKVIS
 >In the case where marginalized nodes comprise landmarks at infinity (or sufficiently close to infinity), or landmarks visible only in one camera from a single pose, the Hessian blocks associated with those landmarks will be (numerically) rank-deficient. We thus employ the pseudo-inverse H+ µµ, hich provides a solution for δχµ given δχλ with a zerocomponent into nullspace direction
 https://www.roboticsproceedings.org/rss09/p37.pdf
+
+このへんが参考にできそうな感じ。やはりHを足すだけなのか？
+![image](https://github.com/eryeden/get-slam-to-marginalize/assets/4968978/db510296-e33a-49a7-9b99-21f90638e617)
+
