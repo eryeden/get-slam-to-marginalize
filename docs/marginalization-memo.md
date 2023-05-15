@@ -31,3 +31,9 @@ https://www.roboticsproceedings.org/rss09/p37.pdf
 このへんが参考にできそうな感じ。やはりHを足すだけなのか？
 ![image](https://github.com/eryeden/get-slam-to-marginalize/assets/4968978/db510296-e33a-49a7-9b99-21f90638e617)
 
+
+
+##
+https://dellaert.github.io/files/Williams14ijrr.pdf
+
+👆結構marginalizationが登場している
