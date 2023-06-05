@@ -44,3 +44,8 @@ https://dellaert.github.io/files/Williams14ijrr.pdf
 https://wang-yimu.com/variable-elimination-smoothing-and-marginalization-explained/
 
 👆このサイト、神。このサイトで勉強することにする。
+
+## 
+https://jermwatt.github.io/machine_learning_refined/notes/5_Linear_regression/5_2_Least.html
+
+👆一回、拡張最小二乗法の復習をしてもいいかもしれない。
